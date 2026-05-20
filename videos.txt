@@ -1,0 +1,10 @@
+1|Inception|Um ladrao que rouba segredos dos sonhos|Ficcao Cientifica|2010|0
+2|The Dark Knight|Batman enfrenta o Coringa em Gotham|Acao|2008|0
+3|Interstellar|Astronautas viajam por um buraco de minhoca|Ficcao Cientifica|2014|1
+4|The Godfather|A historia da familia mafiosa Corleone|Drama|1972|0
+5|Pulp Fiction|Historias entrelacadas do submundo criminal|Crime|1994|0
+6|The Matrix|Um hacker descobre a verdade sobre a realidade|Ficcao Cientifica|1999|0
+7|Forrest Gump|A vida de um homem simples que viveu momentos historicos|Drama|1994|0
+8|The Shawshank Redemption|Um homem inocente sobrevive a prisao com esperanca|Drama|1994|0
+9|Fight Club|Um homem insatisfeito cria um clube de luta secreto|Thriller|1999|0
+10|Gladiator|Um general romano busca vinganca como gladiador|Acao|2000|1
